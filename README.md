@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prashanth gowda A S</h1>
+<h1 align="center">Hi 👋, I'm Prashanth gowda Attahalli Shivakumar</h1>
 <h3 align="center">A passionate Artificiall Intelligence and DevOps Methodology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=18prashanth&label=Profile%20views&color=0e75b6&style=flat" alt="18prashanth" /> </p>
